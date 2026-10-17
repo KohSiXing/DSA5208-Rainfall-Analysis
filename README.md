@@ -4,7 +4,7 @@ This repository contains codes and set up for DSA5208 Assignment 2 - Rainfall An
 ### Software Used
 ![Python](https://img.shields.io/badge/Python-Programming-blue.svg?style=flat&logo=python&logoColor=FFF)
 ![PySpark](https://img.shields.io/badge/Apache-Spark-E4682A.svg?style=flat&logo=apachespark&logoColor=FFF)
-![VS Code](https://img.shields.io/badge/Visual-Studio-007ACC.svg?style=flat&logo=vscode&logoColor=FFF)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=Jupyter)
 ![Google Cloud Platform](https://img.shields.io/badge/Google-Cloud-34A853.svg?style=flat&logo=google-cloud&logoColor=FFF)
 
 ### Team Members
