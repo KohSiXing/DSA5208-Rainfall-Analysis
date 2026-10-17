@@ -1,7 +1,4 @@
 # DSA5208 Project 2: Spark Notebooks on Google Cloud (Mac Setup Guide)
-
-Last updated: Oct 2, 2026
-
 Edit notebooks in VS Code on your Mac, inside your local GitHub repo, while every cell runs on a Google Cloud Spark cluster. Each session: create cluster, open tunnel, run notebook, push, delete cluster.
 
 ## How it works
