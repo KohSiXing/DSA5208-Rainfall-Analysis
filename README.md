@@ -18,6 +18,7 @@ This repository contains codes and set up for DSA5208 Assignment 2 - Rainfall An
 
 | Folder Name                           | Purpose                                                                 |
 | ---                                   | ---                                                                     |
+| Model > final_model                   | Folder containing the final model                                       |
 | Part 1. EDA                           | Codes for Data Cleaning and EDA using PySpark                           |
 | Part 2. Modeling                      | Codes for Feature Engineering, Grid Search, and Model Prediction        |
 | Project Setup                         | Guide for setting up GCP                                                | 
