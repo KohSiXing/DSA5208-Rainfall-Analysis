@@ -14,13 +14,14 @@ This repository contains codes and set up for DSA5208 Assignment 2 - Rainfall An
 | A0221663L             | Ashley Lee Ruoxin   |
 | A0333470L             | Kevin Royce Thomson | 
 
-## Main Folders
+## Main Files/Folders
 
 | Folder Name                           | Purpose                                                                 |
 | ---                                   | ---                                                                     |
 | Part 1. EDA                           | Codes for Data Cleaning and EDA using PySpark                           |
 | Part 2. Modeling                      | Codes for Feature Engineering, Grid Search, and Model Prediction        |
 | Project Setup                         | Guide for setting up GCP                                                | 
+| DSA5208 Assignment 2 Report.pdf       | Report for this Assignment                                              |
 
 **Archive** : Folder containing the past codes and logic on EDA, testing GCP connection, etc. NOT TO BE USED FOR ASSESSMENT.
 
